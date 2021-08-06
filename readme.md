@@ -1,1 +1,0 @@
-# Sitecore Media Conversion Tool
